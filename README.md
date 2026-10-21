@@ -22,13 +22,17 @@ Folder names are stable storage namespaces. They do not establish current artifa
 | Current artifact | Physical image namespace |
 | --- | --- |
 | 49 | `images/pucks/49-20220506/` |
+| 57 | `images/pucks/76/` |
+| 59 | `images/pucks/77/` |
 | 61 | `images/pucks/61-20180123/` |
+| 300 | `images/pucks/59/` |
 | 301 | `images/pucks/343/` |
 | 333 | `images/pucks/342/` |
 | 342 | `images/pucks/49/` |
-| 343 | `images/pucks/59/` |
+| 500 | `images/pucks/510/` |
+| 709 | `images/pucks/717/` |
 
-Removed artifact 57 was consolidated into 313. The old `61/coa.webp` was the pre-crop source for current 330, and `68/coa-02.webp` was the pre-crop source for current 341. Their current approved crops remain active. Do not attach an old file merely because a reused artifact number matches its folder. The owner approved the October20 receipt photos for31/49/61 and game photoA. Their active namespaces are `31/`, `49-20220506/` and `61-20180123/`; use the normal full Back and COA views, with no isolated hologram images.
+The historical former57 was consolidated into313. Current57 is the former76 puck, and current59 is the former77 puck. Current300 is the former343 Boston-return puck in physical59. The owner also moved510→500 and717→709. Retired76/77/343/510/717 have no active cards; their still-used source filenames remain legitimate current-owner namespaces. No duplicate images were created. The old `61/coa.webp` was the pre-crop source for current 330, and `68/coa-02.webp` was the pre-crop source for current 341. Their current approved crops remain active. Do not attach an old file merely because a reused artifact number matches its folder. The owner approved the October20 receipt photos for31/49/61 and game photoA. Their active namespaces are `31/`, `49-20220506/` and `61-20180123/`; use the normal full Back and COA views, with no isolated hologram images.
 
 Unused public derivatives and retired COA associations were first archived with exact byte hashes and old-to-current lineage, then permanently deleted on the owner’s explicit instruction. The previous archive receipts are historical; those derivative rollback copies no longer exist. Actual source originals, native reproducible Book inputs, audit metadata and Git history remain preserved. The identical certificates at 613/614 are intentional and remain active. Inventory counts describe active media; historical manifests retain their original counts.
 
